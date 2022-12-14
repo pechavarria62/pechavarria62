@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pechavarria62
+- 👋 Hi, I’m Pedro Echavarria (@pechavarria62)
 - 👀 I’m interested in Software development|algoritmic|trading|web development|Rest-API|
 - 🌱 I’m currently learning = FullStack Web development.
 - 💞️ I’m looking to collaborate on Making a trading bot
