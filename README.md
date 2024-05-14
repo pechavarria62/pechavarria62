@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Pedro Echavarria</h1>
-<h3 align="center">A passionate front-end developer from The Dominican Republic, I currently live in the Unites States.</h3>
+<h3 align="center">A passionate front-end developer from The Dominican Republic, I currently live in the United States.</h3>
 
 - 🔭 I’m currently working on **Off Road Fund Finder**
 
