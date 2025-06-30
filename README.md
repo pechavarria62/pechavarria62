@@ -9,11 +9,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Pedro Echavarria</h1>
-<h3 align="center">A passionate front-end developer from The Dominican Republic, I currently live in the United States.</h3>
+<h3 align="center">A passionate full-stack developer from The Dominican Republic, I currently live in the United States.</h3>
 
-- 🔭 I’m currently working on **Off Road Fund Finder**
+- 🔭 I’m currently looking for opportunities
 
-- 🌱 I’m currently learning **Next.js, Typescript**
+- 🌱 I’m currently learning **PRISMA, MySQL, **
 
 - 👨‍💻 All of my projects are available at [https://github.com/pechavarria62?tab=repositories](https://github.com/pechavarria62?tab=repositories)
 
