@@ -70,10 +70,9 @@
   <div style="display: flex;
     flex-direction: column;
     align-items: center;
-    width: 80;
     text-align: center;
     font-size: 14;
-    color: #ffffffff;">
+    color: #ffffffff;" witdh='80'>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
     <span>JavaScript</span>
   </div>
