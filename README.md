@@ -76,7 +76,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 80px;
     text-align: center;
     font-size: 14px;
     color: #ffffffff;
