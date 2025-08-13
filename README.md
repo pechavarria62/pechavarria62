@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Pedro Echavarria -->
 
 <h1 align="center">Hi 👋, I'm Pedro Echavarria</h1>
-<h3 align="center">Full-Stack Developer | Web & Mobile | Based in the U.S. from the Dominican Republic</h3>
+<h3 align="center">Full-Stack Developer | Web & Mobile | Based in Columbus, OH, U.S. from the Dominican Republic</h3>
 
 ---
 
@@ -31,37 +31,78 @@
 
 ### 🛠️ Languages & Tools
 
+<!-- Languages -->
+<h3>Languages</h3>
 <p align="left">
-  <!-- Group and organize tools by category -->
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-
-  <!-- Dev Tools -->
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" alt="Cypress" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-
-  <!-- Data -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/><br>JavaScript
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br>Python
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/><br>PHP
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/><br>TypeScript
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/><br>HTML5
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/><br>CSS3
 </p>
+
+<!-- Frameworks -->
+<h3>Frameworks</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/><br>Vue.js
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40"/><br>React Native
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/><br>Django
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/><br>Bootstrap
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/><br>Next.js
+  <img src="https://raw.githubusercontent.com/expo/expo/master/.github/resources/banner.png" alt="Expo" width="40" height="40"/><br>Expo
+</p>
+
+<!-- Libraries -->
+<h3>Libraries</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="40" height="40"/><br>Material-UI
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactbootstrap/reactbootstrap-original.svg" alt="React Bootstrap" width="40" height="40"/><br>React Bootstrap
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/><br>React
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/><br>Pandas
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/><br>NumPy
+</p>
+
+<!-- Testing & QA -->
+<h3>Testing & QA</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" alt="Cypress" width="40" height="40"/><br>Cypress
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/><br>Postman
+</p>
+
+<!-- Databases -->
+<h3>Databases</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/><br>PostgreSQL
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/><br>Firebase
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/><br>MySQL
+</p>
+
+<!-- Tools & Platforms -->
+<h3>Tools & Platforms</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/><br>Docker
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/><br>Kubernetes
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/><br>Heroku
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/><br>Netlify
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/><br>Google Cloud
+  <img src="https://www.vectorlogo.zone/logos/zenhubio/zenhubio-icon.svg" alt="ZenHub" width="40" height="40"/><br>ZenHub
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django REST" width="40" height="40"/><br>Django REST
+  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="40" height="40"/><br>Cloudflare
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/><br>.NET
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/><br>VS Code
+</p>
+
+<!-- Other Skills -->
+<h3>Other Skills</h3>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/><br>Git
+  🖥 IT Operations<br>
+  🐞 Debugging<br>
+  🔗 API Testing<br>
+  <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark-white.png" alt="WordPress" width="40" height="40"/><br>WordPress
+</p>
+
 
 ---
 
