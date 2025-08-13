@@ -66,13 +66,13 @@
 
 <!-- Languages -->
 <h3>Languages</h3>
-<div style='display:flex; flex-direction: row; gap: 20px; justify-content: left;' >
+<div style='display:flex; flex-direction: row; gap: 20; justify-content: left;' >
   <div style="display: flex;
     flex-direction: column;
     align-items: center;
-    width: 80px;
+    width: 80;
     text-align: center;
-    font-size: 14px;
+    font-size: 14;
     color: #ffffffff;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
     <span>JavaScript</span>
