@@ -1,4 +1,37 @@
 <!-- GitHub Profile README for Pedro Echavarria -->
+<style> 
+  .skills-section {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: left;
+  }
+  .skill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80px; /* adjust size */
+    text-align: center;
+    font-size: 14px;
+    color: #ffffffff;
+  }
+  .skill img {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    transition: transform 0.3s ease;
+  }
+  .skill img:hover {
+    transform: scale(1.2);
+  }
+  h3 {
+    margin-top: 30px;
+    font-size: 18px;
+    color: #ffffff;
+  }
+</style>
+
+
 
 <h1 align="center">Hi 👋, I'm Pedro Echavarria</h1>
 <h3 align="center">Full-Stack Developer | Web & Mobile | Based in Columbus, OH, U.S. from the Dominican Republic</h3>
@@ -33,26 +66,60 @@
 
 <!-- Languages -->
 <h3>Languages</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/><br>JavaScript
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br>Python
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/><br>PHP
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/><br>TypeScript
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/><br>HTML5
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/><br>CSS3
-</p>
+<div class='skills-section'>
+  <div class="skill">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+    <span>JavaScript</span>
+  </div>
+    <div class="skill">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
+      <span>Python</span>
+    </div>
+    <div class="skill">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"/>
+      <span>PHP</span>
+    </div>
+    <div class="skill"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+      <span>TypeScript</span>
+    </div>
+    <div class="skill"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"/>
+      <span>HTML5</span>
+    </div>
+    <div class="skill"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3"/>
+      <span>CSS3</span>
+    </div>
+</div>
 
 <!-- Frameworks -->
 <h3>Frameworks</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/><br>Vue.js
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40"/><br>React Native
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/><br>Django
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/><br>Bootstrap
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/><br>Next.js
-  <img src="https://raw.githubusercontent.com/expo/expo/master/.github/resources/banner.png" alt="Expo" width="40" height="40"/><br>Expo
-</p>
-
+<div class='skills-section'>
+  <div class="skill">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js"/>
+    <span>Vue.js</span>
+  </div>
+    <div class="skill">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"/>
+    </div>
+    <div class="skill">
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django"/>
+      <span>Django</span>
+    </div>
+    <div class="skill"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+      <span>Bootstrap</span>
+    </div>
+    <div class="skill"> 
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js"/>
+      <span>Next.js</span>
+    </div>
+    <div class="skill"> 
+      <img src="https://raw.githubusercontent.com/expo/expo/master/.github/resources/banner.png" alt="Expo"/>
+      <span>Expo</span>
+    </div>
+</div>
 <!-- Libraries -->
 <h3>Libraries</h3>
 <p align="left">
