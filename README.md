@@ -66,7 +66,7 @@
 
 <!-- Languages -->
 <h3>Languages</h3>
-<div class='skills-section'>
+<div style='display:flex; flex-direction: row; gap: 20px; justify-content: left;' >
   <div class="skill">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
     <span>JavaScript</span>
