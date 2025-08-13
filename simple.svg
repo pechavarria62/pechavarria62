@@ -16,7 +16,9 @@
                 }
             }
             </style>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+            <svg width="50" height="150">
+                <image href="javascript-original.svg" width="50" height="150" alt="css-in-readme" />
+            </svg>
             <h1>JavaScript</h1>
             <h1>HELLO WORLD!</h1>
         </div>
