@@ -64,64 +64,67 @@
 
 <!-- Languages -->
 <svg fill="none" viewBox="0 0 600 300" width="600" height="30" xmlns="http://www.w3.org/2000/svg">
+
   <foreignObject width="100%" height="100%">
+
   <style> 
-  .skills-section {
-    display: flex;
-    flex-direction: row;
-    gap: 20px;
-    justify-content: left;
-  }
-  .skill {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    font-size: 14px;
-    color: #ffffffff;
-  }
-  .skill img {
-    width: 50px;
-    height: 50px;
-    object-fit: contain;
-    transition: transform 0.3s ease;
-  }
-  .skill img:hover {
-    transform: scale(1.2);
-  }
-  h3 {
-    margin-top: 30px;
-    font-size: 18px;
-    color: #ffffff;
-  }
-</style> 
-<h3>Languages</h3>
-<div class='skills-section'>
-  <div class="skill">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-    <span>JavaScript</span>
+    .skills-section {
+      display: flex;
+      flex-direction: row;
+      gap: 20px;
+      justify-content: left;
+    }
+    .skill {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      font-size: 14px;
+      color: #ffffffff;
+    }
+    .skill img {
+      width: 50px;
+      height: 50px;
+      object-fit: contain;
+      transition: transform 0.3s ease;
+    }
+    .skill img:hover {
+      transform: scale(1.2);
+    }
+    h3 {
+      margin-top: 30px;
+      font-size: 18px;
+      color: #ffffff;
+    }
+  </style> 
+
+  <h3>Languages</h3>
+  <div class='skills-section'>
+    <div class="skill">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+      <span>JavaScript</span>
+    </div>
+      <div class="skill">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
+        <span>Python</span>
+      </div>
+      <div class="skill">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"/>
+        <span>PHP</span>
+      </div>
+      <div class="skill"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+        <span>TypeScript</span>
+      </div>
+      <div class="skill"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"/>
+        <span>HTML5</span>
+      </div>
+      <div class="skill"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3"/>
+        <span>CSS3</span>
+      </div>
   </div>
-    <div class="skill">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
-      <span>Python</span>
-    </div>
-    <div class="skill">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"/>
-      <span>PHP</span>
-    </div>
-    <div class="skill"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"/>
-      <span>TypeScript</span>
-    </div>
-    <div class="skill"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"/>
-      <span>HTML5</span>
-    </div>
-    <div class="skill"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3"/>
-      <span>CSS3</span>
-    </div>
-</div>
 
 <!-- Frameworks -->
 <h3>Frameworks</h3>
