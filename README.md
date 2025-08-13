@@ -1,5 +1,5 @@
 <!-- GitHub Profile README for Pedro Echavarria -->
-<style> 
+<!-- <style> 
   .skills-section {
     display: flex;
     flex-direction: row;
@@ -29,7 +29,7 @@
     font-size: 18px;
     color: #ffffff;
   }
-</style>
+</style> -->
 
 
 
@@ -62,18 +62,43 @@
 
 ---
 
-### 🛠️ Languages & Tools
-
 <!-- Languages -->
-<h3>Languages</h3>
-<div style='display:flex; flex-direction: row; gap: 20px; justify-content: left;' >
-  <div style="display: flex;
+<svg fill="none" viewBox="0 0 600 300" width="600" height="30" xmlns="http://www.w3.org/2000/svg"></svg>
+  <foreignObject width="100%" height="100%">
+  <style> 
+  .skills-section {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: left;
+  }
+  .skill {
+    display: flex;
     flex-direction: column;
     align-items: center;
     width: 80px;
     text-align: center;
     font-size: 14px;
-    color: #ffffffff;">
+    color: #ffffffff;
+  }
+  .skill img {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    transition: transform 0.3s ease;
+  }
+  .skill img:hover {
+    transform: scale(1.2);
+  }
+  h3 {
+    margin-top: 30px;
+    font-size: 18px;
+    color: #ffffff;
+  }
+</style> 
+<h3>Languages</h3>
+<div class='skills-section'>
+  <div class="skill">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
     <span>JavaScript</span>
   </div>
@@ -186,3 +211,4 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </p>
+  </foreignObject>
