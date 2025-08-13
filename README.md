@@ -67,6 +67,8 @@
 
   <foreignObject width="100%" height="100%">
 
+  <div xmlns="http://www.w3.org/1999/xhtml">
+
   <style> 
     .skills-section {
       display: flex;
@@ -213,5 +215,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
 </p>
+  </div>
+
   </foreignObject>
 </svg>
