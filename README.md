@@ -13,7 +13,6 @@
 - 📫 Reach me at:  
   `pechavarria62@gmail.com`  
   `pechavarria62@hotmail.com`  
-  `pechavarria@paem.io`
 
 ---
 
