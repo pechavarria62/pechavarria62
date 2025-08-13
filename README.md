@@ -10,7 +10,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 80px; /* adjust size */
+    width: 80px;
     text-align: center;
     font-size: 14px;
     color: #ffffffff;
@@ -67,7 +67,13 @@
 <!-- Languages -->
 <h3>Languages</h3>
 <div style='display:flex; flex-direction: row; gap: 20px; justify-content: left;' >
-  <div class="skill">
+  <div style="display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80px;
+    text-align: center;
+    font-size: 14px;
+    color: #ffffffff;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
     <span>JavaScript</span>
   </div>
